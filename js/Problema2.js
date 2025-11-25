@@ -75,6 +75,6 @@ function determinarDiaMes() {
         let dia = usuario - 334;
         document.getElementById("resultado").textContent =
             "corresponde al " + dia + " de diciembre";
-        return;
-    }
+        return;
+    }
 }
